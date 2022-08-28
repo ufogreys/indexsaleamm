@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://swap.indexsale.finance/',
+    href: 'https://farm.indexsale.finance/',
   },
   {
     label: 'Trade',
@@ -28,7 +28,7 @@ const config: MenuEntry[] = [
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://farm.cryptofan.finance/#/pools',
+    href: 'https://farm.indexsale.finance/#/pools',
   },
   // {
   //   label: 'Pools',
