@@ -11,9 +11,9 @@
   "keywords": ["CFT", "WBNB"],
   "tokens": [
     {
-      "name": "CryptoFan",
-      "symbol": "CFT",
-      "address": "0xd5ea686Fb3E3e53A3fD29D82eC4560D375594D62",
+      "name": "In-Dex Sale",
+      "symbol": "IDXS",
+      "address": "0x89C2d726981eBa2EA168C7B19F54cAe905DA89cD",
       "chainId": 56,
       "decimals": 9
     },
