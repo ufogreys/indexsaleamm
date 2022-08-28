@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://staking.cryptofan.finance/',
+    href: 'https://swap.indexsale.finance/',
   },
   {
     label: 'Trade',
@@ -12,23 +12,23 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.cryptofan.finance/#/swap',
+        href: 'https://swap.indexsale.finance/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.cryptofan.finance/#/pool',
+        href: 'https://swap.indexsale.finance/#/pool',
       },
     ],
   },
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://staking.cryptofan.finance/#/farms',
+    href: 'https://farm.indexsale.finance/#/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://staking.cryptofan.finance/#/pools',
+    href: 'https://farm.cryptofan.finance/#/pools',
   },
   // {
   //   label: 'Pools',
@@ -51,15 +51,15 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/',
+        href: 'https://pancakeswap.info/token/0x89C2d726981eBa2EA168C7B19F54cAe905DA89cD',
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/',
+        href: 'https://www.coingecko.com/en/coins/indexsale',
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/',
+        href: 'https://coinmarketcap.com/currencies/indexsale',
       },
       {
         label: 'AstroTools',
@@ -73,7 +73,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Hacken Audit',
-        href: 'https://cryptofan.finance/',
+        href: 'https://indexsale.finance/',
       },
       {
         label: 'Github',
@@ -81,7 +81,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Docs',
-        href: 'https://cryptofan.finance/wp-content/uploads/2022/07/WhitePaper-1.0-CryptoFan-Token-1.pdf',
+        href: 'idsdefi.gitbook.io',
       },
       {
         label: 'Blog',
@@ -92,7 +92,7 @@ const config: MenuEntry[] = [
   {
     label: 'Website',
     icon: 'AuditIcon',
-    href: 'https://cryptofan.finance/',
+    href: 'https://indexsale.finance/',
   },
 ]
 
